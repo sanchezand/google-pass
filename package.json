@@ -1,0 +1,19 @@
+{
+  "name": "google-pass",
+  "version": "1.0.0",
+  "description": "NodeJS wrapper for Google Wallet Pass creation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanchezand/google-pass.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanchezand/google-pass/issues"
+  },
+  "homepage": "https://github.com/sanchezand/google-pass#readme"
+}
